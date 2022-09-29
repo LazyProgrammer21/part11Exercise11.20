@@ -30,6 +30,6 @@ jobs:
           healthcheck: "https://create-app-98.herokuapp.com/health"
           checkstring: "ok"
           delay: 5
-          rollbackonhealthcheckfailed: true 
+          
     
       
